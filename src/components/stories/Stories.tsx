@@ -1,4 +1,3 @@
-import React from "react";
 import Story from "./Story";
 import { useFetchStories, usePagination } from "./hooks";
 import Pagination from "./Pagination";
